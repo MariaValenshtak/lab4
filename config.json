@@ -1,0 +1,7 @@
+{
+  "input_file": "Steve_Jobs.txt",
+  "target_lang": "et",
+  "module": "mod_gtrans4",
+  "output": "file",
+  "sentence_count": 5
+}
